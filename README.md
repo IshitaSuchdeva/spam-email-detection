@@ -21,3 +21,12 @@ prediction on new data
 
 prediction is made using the input data and if it is 1 then ham mail else spam mail is
 categorised
+
+RESULT
+
+
+
+![spam email](https://github.com/IshitaSuchdeva/spam-email-detection/assets/91798812/31a326d6-a57b-446b-b575-19f3224e4199)
+
+
+
